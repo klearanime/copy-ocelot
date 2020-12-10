@@ -1,0 +1,59 @@
+.Lokai {
+    display: flex;
+}
+
+.sec1 {
+    display: flex;
+    font-size: 20px;
+    font-family: 'sans-serif';
+    color: white;
+    justify-content: space-around;
+    padding-bottom: 25px;
+    background-color: rgb(54, 53, 53);
+    height: 35px;
+}
+
+.sec2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#point1 {
+    margin-top: 10px;
+    font-size: xx-large;
+}
+
+.sec3 {
+    font-size: 25px;
+    display: flex;
+    align-items: flex-end;
+    background-image: url("https://cdn.shopify.com/s/files/1/1366/8315/t/7/assets/2020-post-sale-hp-top-banner.png?v=498141958419285734");
+    height: 20em;
+    flex-direction: column;
+}
+
+#but1 {
+    height: 30px;
+    width: 15rem;
+    font-size: 17px;
+    color: white;
+    background-color: rgb(54, 53, 53);
+}
+
+.sec4 {
+    font-size: 25px;
+    display: flex;
+    align-items: flex-end;
+    background-image: url("https://cdn.shopify.com/s/files/1/1366/8315/collections/Collection_Hero_4e14c3f2-e75a-4cc7-8aab-3e33653b0749_1200x.jpg?v=1606076041");
+    height: 15em;
+    flex-direction: column;
+}
+
+#sec5 {
+    font-size: 25px;
+    display: flex;
+    align-items: flex-end;
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.AXab5WQAT5AYRu_EHQ3nHgHaCx%26pid%3DApi&f=1");
+    height: 15em;
+    flex-direction: column;
+}
